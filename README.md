@@ -20,13 +20,13 @@
 <h3 align="left">Most application used:</h3>
 <table>
 	<tr>
-		<td></td>
+		<td>Adobe Photoshop</td>
 	</tr>
 		<tr>
-		<td></td>
+		<td>Adobe XD</td>
 	</tr>
 		<tr>
-		<td></td>
+		<td>Adobe Lightroom</td>
 	</tr>
 </table>
 
