@@ -21,7 +21,7 @@
 <p align="left">
 Adobe Photoshop
 </p>
-<p align="right">
+<p align="middle">
 SublimeText
 </p>
 
