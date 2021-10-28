@@ -19,15 +19,21 @@
 
 <h3 align="left">Most application used:</h3>
 <table>
-	<tr>
-		<td>Adobe Photoshop</td>
-	</tr>
-		<tr>
-		<td>Adobe XD</td>
-	</tr>
-		<tr>
-		<td>Adobe Lightroom</td>
-	</tr>
+  <tr>
+    <th>Graphic</th>
+    <th>Coding</th>
+    <th>Production</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
 </table>
 
 ### Blogs posts
