@@ -26,19 +26,13 @@
   </tr>
   <tr>
     <td>Adobe Photoshop</td>
-    <td>Adobe XD</td>
-    <td>Adobe Lightroom</td>
-    <td>Adobe After Effect</td>
-    <td>Adobe Premiere</td>
-    <td>Adobe Illustrator</td>
-    <td>Figma</td>
-    <td>Sketch</td>
-    <td>Adobe After Effect</td>
+    <td>SublimeText</td>
+    <td>iTerm</td>
   </tr>
   <tr>
-    <td>SublimeText</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Adobe Lightroom</td>
+    <td>VIM</td>
+    <td>GitHub Desktop</td>
   </tr>
 </table>
 
