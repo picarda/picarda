@@ -20,17 +20,23 @@
 <h3 align="left">Most application used:</h3>
 <table>
   <tr>
-    <th>Graphic</th>
+    <th>Graphics</th>
     <th>Coding</th>
     <th>Production</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>Adobe Photoshop</td>
+    <td>Adobe XD</td>
+    <td>Adobe Lightroom</td>
+    <td>Adobe After Effect</td>
+    <td>Adobe Premiere</td>
+    <td>Adobe Illustrator</td>
+    <td>Figma</td>
+    <td>Sketch</td>
+    <td>Adobe After Effect</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
+    <td>SublimeText</td>
     <td>Francisco Chang</td>
     <td>Mexico</td>
   </tr>
