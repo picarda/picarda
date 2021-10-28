@@ -34,6 +34,27 @@
     <td>VIM</td>
     <td>GitHub Desktop</td>
   </tr>
+    <tr>
+    <td>Adobe XD</td>
+    <td>VS Code</td>
+    <td>CodeKit</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>Adobe After Effect</td>
+    <td>PyCharm</td>
+    <td>SequelPro</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>Adobe After Premiere</td>
+    <td>Nova</td>
+    <td>FileMaker</td>
+  </tr>
+
+
+
+
 </table>
 
 ### Blogs posts
