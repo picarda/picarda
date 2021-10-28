@@ -18,15 +18,17 @@
 - ⚡ Fun fact **Be nice to geeks, you'll probably end up working with one.**
 
 <h3 align="left">Most application used:</h3>
-<p align="left">
+<ul>
+<li align="left">
 Adobe Photoshop
-</p>
-<p align="middle">
+</li>
+<li align="middle">
 SublimeText
-</p>
-<p align="right">
+</li>
+<li align="right">
 SublimeText
-</p>
+</li>
+</ul>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
