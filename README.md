@@ -24,7 +24,9 @@ Adobe Photoshop
 <p align="middle">
 SublimeText
 </p>
-
+<p align="right">
+SublimeText
+</p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
