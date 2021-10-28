@@ -20,9 +20,9 @@
 <h3 align="left">Most application used:</h3>
 <table>
   <tr>
-    <th>Graphics</th>
-    <th>Coding</th>
-    <th>Production</th>
+    <th>- Graphics -</th>
+    <th>- Coding -</th>
+    <th>- Production -</th>
   </tr>
   <tr>
     <td>Adobe Photoshop</td>
@@ -51,10 +51,6 @@
     <td>Nova</td>
     <td>FileMaker</td>
   </tr>
-
-
-
-
 </table>
 
 ### Blogs posts
