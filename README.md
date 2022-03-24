@@ -59,11 +59,14 @@
 
 <h3 align="left">Where to find me:</h3>
 <p align="left">
-<a href="https://twitter.com/apicard27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="apicard27" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/picarda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="picarda" height="30" width="40" /></a>
-<a href="https://fb.com/apicard27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="apicard27" height="30" width="40" /></a>
-<a href="https://instagram.com/apicard27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="apicard27" height="30" width="40" /></a>
-<a href="/https://alainpicard.ca/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://alainpicard.ca/feed/" height="30" width="40" /></a>
+<a href="https://twitter.com/apicard27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/picarda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linked" height="30" width="40" /></a>
+<a href="/https://alainpicard.ca/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Feed" height="30" width="40" /></a>
+<a href="https://www.eyeem.com/u/picarda" target="blank"><img align="center" src="https://www.freelogovectors.net/wp-content/uploads/2022/03/eyeem-logo_freelogovectors.net_-768x768.png" alt="EyeEm" height="30" width="40" /></a>
+<a href="https://www.pinterest.ca/apicard27" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/p/61/pinterest-2.svg" alt="Pinterest" height="30" width="40" /></a>
+<a href="https://mastodon.social/@Picarda" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/mastodon-2.svg" alt="mastodon" height="30" width="40" /></a>
+<a href="https://mewe.com/i/apicard27" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/1072420?s=200&v=4" alt="Mewe" height="30" width="40" /></a>
+<a href="https://www.reddit.com/user/alainpicard" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/r/93/reddit.svg" alt="Reddit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
