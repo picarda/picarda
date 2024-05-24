@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=picarda" alt="picarda" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/apicard27" target="blank"><img src="https://img.shields.io/twitter/follow/apicard27?logo=twitter&style=for-the-badge" alt="apicard27" /></a> </p>
 
 - 🌱 I’m currently learning **Python + Flask**
 
@@ -30,12 +29,12 @@
     <td>iTerm</td>
   </tr>
   <tr>
-    <td>Adobe Lightroom</td>
+    <td>Canva</td>
     <td>VIM</td>
     <td>GitHub Desktop</td>
   </tr>
     <tr>
-    <td>Adobe XD</td>
+    <td>Figma</td>
     <td>VS Code</td>
     <td>CodeKit</td>
   </tr>
@@ -47,9 +46,9 @@
   </tr>
   </tr>
     <tr>
-    <td>Adobe After Premiere</td>
-    <td>Nova</td>
-    <td>FileMaker</td>
+    <td>FinalCut</td>
+    <td>Office</td>
+    <td>Notion</td>
   </tr>
 </table>
 
