@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Python + Flask**
 
-- 📝 I regularly write articles on [https://alainpicard.ca/blog/](https://alainpicard.ca/blog/)
+- 📝 I regularly write articles on [https://seosolutionsmontreal.com/](https://seosolutionsmontreal.com)
 
 - 💬 Ask me about **Cyber Security, Amazon AWS, Magento, WordPress + Woocommerce**
 
 - 📫 How to reach me **alain@alainpicard.ca**
 
-- 📄 Know about my experiences [http://link.alainpicard.ca/eU81en](http://link.alainpicard.ca/eU81en)
+- 📄 Know about my experiences [https://alainpicard.ca](https://alainpicard.ca)
 
 - ⚡ Fun fact **Be nice to geeks, you'll probably end up working with one.**
 
