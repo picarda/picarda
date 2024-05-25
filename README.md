@@ -54,6 +54,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+<a href="https://seosolutionsmontreal.com/guide-to-backlink-building-2024/" title="Guide to Backlink Building 2024" />Guide to Backlink Building 2024</a>
+<a href="https://seosolutionsmontreal.com/cyber-security-in-enterprise-my-guide/" title="Cyber security in enterprise my guide" />Cyber security in enterprise my guide</a>
+<a href="https://seosolutionsmontreal.com/wordpress-security-vulnerabilities-in-2024/" title="WordPress Security Vulnerabilities in 2024" />WordPress Security Vulnerabilities in 2024</a>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Where to find me:</h3>
