@@ -11,13 +11,13 @@ https://alainpicard.ca<br />
 https://music.alainpicard.ca<br />
 https://seosolutionsmontreal.com<br />
 <br /><br />
-- 📝 I write articles on: **https://blog.alainpicard.ca/**
+- 📝 I write articles on: https://blog.alainpicard.ca/
 <br /><br />
 - 💬 Ask me about **Cyber Security, Amazon AWS, Magento, WordPress + Woocommerce**
 <br /><br />
-- 📫 How to reach me **alain@alainpicard.ca**
+- 📫 How to reach me: alain@alainpicard.ca
 <br /><br />
-- 📄 Know about my experiences: **https://alainpicard.ca**
+- 📄 Know about my experiences: https://alainpicard.ca
 <br /><br />
 - ⚡ Fun fact **NASA still operates some projects on programming from the 1970’s**
 <br /><br />
@@ -60,17 +60,15 @@ https://seosolutionsmontreal.com<br />
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <ul>
-<li><a href="https://seosolutionsmontreal.com/guide-to-backlink-building-2024/" title="Guide to Backlink Building 2024" />Guide to Backlink Building 2024</a></li>
-<li><a href="https://seosolutionsmontreal.com/cyber-security-in-enterprise-my-guide/" title="Cyber security in enterprise my guide" />Cyber security in enterprise my guide</a></li>
-<li><a href="https://seosolutionsmontreal.com/wordpress-security-vulnerabilities-in-2024/" title="WordPress Security Vulnerabilities in 2024" />WordPress Security Vulnerabilities in 2024</a></li>
+<li><a href="https://blog.alainpicard.ca/2025/12/aunching-alainpicard-cyber-security-web-development.html#more" title="Elevate Your Digital Security & Web Presence: Introducing alainpicard.ca" />Elevate Your Digital Security & Web Presence: Introducing alainpicard.ca</a></li>
 </ul>
 <!-- BLOG-POST-LIST:END -->
 <br /><br />
 <h3 align="left">Where to find me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/picarda" target="blank" title="Alain Picard Linkedin"><img align="center" src="https://seosolutionsmontreal.com/linkedin.svg" alt="Alain Picard Linkedin" height="40" width="40" /></a>
-<a href="https://tiktok.com/@bella_canasson" target="blank" title="Alain Picard TikTok"><img align="center" src="https://seosolutionsmontreal.com/tiktok.svg" alt="Alain Picard Linkedin" height="40" width="40" /></a>
-<a href="https://instagram.com/apicard27" target="blank" title="Alain Picard Instagram"><img align="center" src="https://seosolutionsmontreal.com/instagram.svg" alt="Alain Picard Linkedin" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/picarda" target="blank" title="Alain Picard Linkedin"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png?20140125013055" alt="Alain Picard Linkedin" height="40" width="40" /></a>
+<a href="https://tiktok.com/@bella_canasson" target="blank" title="Alain Picard TikTok"><img align="center" src="https://images.seeklogo.com/logo-png/34/1/tiktok-logo-png_seeklogo-340606.png" alt="Alain Picard Linkedin" height="40" width="40" /></a>
+<a href="https://instagram.com/apicard27" target="blank" title="Alain Picard Instagram"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/960px-Instagram_logo_2022.svg.png?20220518162235" alt="Alain Picard Linkedin" height="40" width="40" /></a>
 </p>
 <br /><br />
 <h3 align="left">Languages and Tools:</h3>
