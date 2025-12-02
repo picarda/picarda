@@ -66,9 +66,9 @@ https://seosolutionsmontreal.com<br />
 <br /><br />
 <h3 align="left">Where to find me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/picarda" target="blank" title="Alain Picard Linkedin"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png?20140125013055" alt="Alain Picard Linkedin" height="40" width="40" /></a>
-<a href="https://tiktok.com/@bella_canasson" target="blank" title="Alain Picard TikTok"><img align="center" src="https://images.seeklogo.com/logo-png/34/1/tiktok-logo-png_seeklogo-340606.png" alt="Alain Picard Linkedin" height="40" width="40" /></a>
-<a href="https://instagram.com/apicard27" target="blank" title="Alain Picard Instagram"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/960px-Instagram_logo_2022.svg.png?20220518162235" alt="Alain Picard Linkedin" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/picarda" target="blank" title="Alain Picard Linkedin"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png?20140125013055" alt="Alain Picard Linkedin" height="40" width="40" /> - Linkedin</a><br /><br />
+<a href="https://tiktok.com/@bella_canasson" target="blank" title="Alain Picard TikTok"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Tiktok_icon.svg" alt="Alain Picard TikTok" height="40" width="40" /> - TikTok</a><br /><br />
+<a href="https://instagram.com/apicard27" target="blank" title="Alain Picard Instagram"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/960px-Instagram_logo_2022.svg.png?20220518162235" alt="Alain Picard Instagram" height="40" width="40" /> - Instagram</a>
 </p>
 <br /><br />
 <h3 align="left">Languages and Tools:</h3>
@@ -102,8 +102,7 @@ https://seosolutionsmontreal.com<br />
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>&nbsp;&nbsp;
 <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>&nbsp;&nbsp;
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>&nbsp;&nbsp;
-<a href="https://www.canva.com/" target="_blank"> <img src="https://static.canva.com/web/images/12487a1e0770d29351bd4ce4f87ec8fe.svg" alt="Canva" width="40" height="40"/> </a>&nbsp;&nbsp;
+<a href="https://www.canva.com/" target="_blank"> <img src="https://www.pngmart.com/files/23/Canva-Logo-PNG.png" alt="Canva" width="40" height="40"/> </a>&nbsp;&nbsp;
 <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
 </p>
 <br /><br />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=picarda&show_icons=true&locale=en&layout=compact" alt="Alain Picarda" /></p>
