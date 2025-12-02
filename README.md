@@ -1,20 +1,25 @@
 <h1 align="center">Hi 👋, nice to see you I'm Alain Picard</h1>
 <h3 align="center">A passionate Fullstack developer from Montreal, QC.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=picarda" alt="picarda" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=picarda" alt="Alain Picarda" /></a> </p>
 <br />
 <br />
-- 🌱 I’m currently learning **Python + Flask**
-
-- 📝 I regularly write articles on [https://seosolutionsmontreal.com/](https://seosolutionsmontreal.com)
-
-- 💬 Ask me about **Cyber Security, Amazon AWS, Magento, WordPress + Woocommerce**
-
-- 📫 How to reach me **alain@alainpicard.ca**
-
-- 📄 Know about my experiences [https://alainpicard.ca](https://alainpicard.ca)
+- 🌱 I’m currently learning **Python**
 <br /><br />
-- ⚡ Fun fact **Be nice to geeks, you'll probably end up working with one.**
+- My website are:<br />
+https://alainpicard.ca<br />
+https://music.alainpicard.ca<br />
+https://seosolutionsmontreal.com<br />
+<br /><br />
+- 📝 I write articles on: **https://blog.alainpicard.ca/**
+<br /><br />
+- 💬 Ask me about **Cyber Security, Amazon AWS, Magento, WordPress + Woocommerce**
+<br /><br />
+- 📫 How to reach me **alain@alainpicard.ca**
+<br /><br />
+- 📄 Know about my experiences: **https://alainpicard.ca**
+<br /><br />
+- ⚡ Fun fact **NASA still operates some projects on programming from the 1970’s**
 <br /><br />
 <h3 align="left">Most application used:</h3>
 <table>
@@ -26,7 +31,7 @@
   <tr>
     <td>Adobe Photoshop</td>
     <td>SublimeText</td>
-    <td>iTerm</td>
+    <td>Ghostly</td>
   </tr>
   <tr>
     <td>Canva</td>
@@ -35,20 +40,20 @@
   </tr>
     <tr>
     <td>Figma</td>
-    <td>VS Code</td>
+    <td>Antigravity</td>
     <td>CodeKit</td>
   </tr>
   </tr>
     <tr>
     <td>Adobe After Effect</td>
-    <td>PyCharm</td>
-    <td>SequelPro</td>
+    <td>Vercel</td>
+    <td>FlutterFlow</td>
   </tr>
   </tr>
     <tr>
     <td>FinalCut</td>
-    <td>Office</td>
-    <td>Notion</td>
+    <td>Firebase</td>
+    <td>Google Suite</td>
   </tr>
 </table>
 <br /><br />
@@ -63,11 +68,8 @@
 <br /><br />
 <h3 align="left">Where to find me:</h3>
 <p align="left">
-<a href="/https://seosolutionsmontreal.com" target="blank" title="SEO Solutions Montreal"><img align="center" src="https://seosolutionsmontreal.com/website.svg" alt="SEO Solutions Montreal" height="40" width="40" /></a>
-<a href="/https://alainpicard.ca" target="blank" title="Alain Picard IT"><img align="center" src="https://seosolutionsmontreal.com/website.svg" alt="Alain Picard IT" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/picarda" target="blank" title="Alain Picard Linkedin"><img align="center" src="https://seosolutionsmontreal.com/linkedin.svg" alt="Alain Picard Linkedin" height="40" width="40" /></a>
 <a href="https://tiktok.com/@bella_canasson" target="blank" title="Alain Picard TikTok"><img align="center" src="https://seosolutionsmontreal.com/tiktok.svg" alt="Alain Picard Linkedin" height="40" width="40" /></a>
-<a href="https://www.eyeem.com/u/picarda" target="blank" title="Alain Picard EyeEM"><img align="center" src="https://www.freelogovectors.net/wp-content/uploads/2022/03/eyeem-logo_freelogovectors.net_-768x768.png" alt="EyeEm" height="40" width="40" /></a>
 <a href="https://instagram.com/apicard27" target="blank" title="Alain Picard Instagram"><img align="center" src="https://seosolutionsmontreal.com/instagram.svg" alt="Alain Picard Linkedin" height="40" width="40" /></a>
 </p>
 <br /><br />
@@ -106,4 +108,4 @@
 <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
 </p>
 <br /><br />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=picarda&show_icons=true&locale=en&layout=compact" alt="picarda" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=picarda&show_icons=true&locale=en&layout=compact" alt="Alain Picarda" /></p>
