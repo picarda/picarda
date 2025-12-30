@@ -8,6 +8,7 @@
 <br /><br />
 - My website are:<br />
 https://alainpicard.ca<br />
+https://blog.alainpicard.ca<br />
 https://music.alainpicard.ca<br />
 https://seosolutionsmontreal.com<br />
 <br /><br />
